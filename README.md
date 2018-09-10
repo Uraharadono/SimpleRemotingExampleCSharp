@@ -1,6 +1,6 @@
 # Simple Remoting Example in CSharp / C#
 
-Project that shows simple usage of remoting in C# to expose classes over tcp over the network.
+Project that shows simple usage of remoting in C# to expose classes using tcp over the network.
 
 
 # TheServer_LoadingDll project
