@@ -13,8 +13,6 @@ namespace TheClient
     {
         static void Main(string[] args)
         {
-
-
             // select channel to communicate with server
             TcpChannel clientChanel = new TcpChannel();
             ChannelServices.RegisterChannel(clientChanel, false);
